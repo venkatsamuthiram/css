@@ -1,35 +1,41 @@
-#CSS Tutorials
+# CSS Tutorials
 
-### CSS Selectors
+## [](https://github.com/venkatsamuthiram/css/blob/master/README.md#css-selectors)CSS Selectors
 
-##A
+### A
 
-::after / ::before
+>:after / ::before
 :active
 :any-link
 Adjacent sibling
 [attribute]
+ 
+### B
 
-##B
-:blank
+>:blank
 
-##C
-:checked
+### C
+
+>:checked
 Child
 Class
 
-##D
-:default
+### D
+
+>:default
 :dir()
 :disabled
 Descendant
+ 
 
-##E
-:empty
+### E
+
+>:empty
 :enabled
 
-##F
-::first-letter
+### F
+
+>::first-letter
 ::first-line
 :first-child
 :first-of-type
@@ -37,76 +43,90 @@ Descendant
 :focus-visible
 :focus-within
 
-##G
-General sibling
+### G
 
-##H
-:hover
+>General sibling
 
-##I
-:in-range
+### H
+
+>:hover
+
+### I
+
+>:in-range
 :indeterminate
 :invalid
 :is()
 ID
 
-##J
+### J
 
-##K
+### K
 
-##L
-:lang()
+### L
+
+>:lang()
 :last-child
 :last-of-type
 :link
 
-##M
-::marker
-:matches()
+### M
 
-##N
-:not(s)
+>::marker
+:matches()  
+
+### N
+
+>:not(s)
 :nth-child
 :nth-last-child
 :nth-last-of-type
 :nth-of-type
 
-##O
-:only-child
+### O
+
+>:only-child
 :only-of-type
 :optional
 :out-of-range
 
-##P
-::placeholder
+### P
+
+>::placeholder
 :placeholder-shown
 
-##Q
+### Q
 
-##R
-:read-write / :read-only
+### R
+
+>:read-write / :read-only
 :required
 :root
 
-##S
-::selection
+### S
 
-##T
-:target
+>::selection
+ 
+### T
+
+>:target
 Type
+ 
 
-##U
-:user-invalid
+### U
+
+>:user-invalid
 Universal
 
-##V
-:valid
+### V
+
+>:valid
 :visited
+  
+### W
 
-##W
+### X
 
-##X
+### Y
 
-##Y
-
-##Z
+### Z
