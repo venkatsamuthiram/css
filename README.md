@@ -5,10 +5,10 @@
 ### A
 
 >:after / ::before
-:active
-:any-link
-Adjacent sibling
-[attribute]
+>:active
+>:any-link
+>Adjacent sibling
+>[attribute]
  
 ### B
 
@@ -17,31 +17,31 @@ Adjacent sibling
 ### C
 
 >:checked
-Child
-Class
+>Child
+>Class
 
 ### D
 
 >:default
-:dir()
-:disabled
-Descendant
+>:dir()
+>:disabled
+>Descendant
  
 
 ### E
 
 >:empty
-:enabled
+>:enabled
 
 ### F
 
 >::first-letter
-::first-line
-:first-child
-:first-of-type
-:focus
-:focus-visible
-:focus-within
+>::first-line
+>:first-child
+>:first-of-type
+>:focus
+>:focus-visible
+>:focus-within
 
 ### G
 
@@ -54,10 +54,10 @@ Descendant
 ### I
 
 >:in-range
-:indeterminate
-:invalid
-:is()
-ID
+>:indeterminate
+>:invalid
+>:is()
+>ID
 
 ### J
 
@@ -66,42 +66,42 @@ ID
 ### L
 
 >:lang()
-:last-child
-:last-of-type
-:link
+>:last-child
+>:last-of-type
+>:link
 
 ### M
 
 >::marker
-:matches()  
+>:matches()  
 
 ### N
 
 >:not(s)
-:nth-child
-:nth-last-child
-:nth-last-of-type
-:nth-of-type
+>:nth-child
+>:nth-last-child
+>:nth-last-of-type
+>:nth-of-type
 
 ### O
 
 >:only-child
-:only-of-type
-:optional
-:out-of-range
+>:only-of-type
+>:optional
+>:out-of-range
 
 ### P
 
 >::placeholder
-:placeholder-shown
+>:placeholder-shown
 
 ### Q
 
 ### R
 
 >:read-write / :read-only
-:required
-:root
+>:required
+>:root
 
 ### S
 
@@ -110,18 +110,18 @@ ID
 ### T
 
 >:target
-Type
+>Type
  
 
 ### U
 
 >:user-invalid
-Universal
+>Universal
 
 ### V
 
 >:valid
-:visited
+>:visited
   
 ### W
 
